@@ -1,0 +1,13 @@
+[[packages.odin_modules]]
+name = "odin-box2c"
+url = "git@gitlab.com:L-4/odin-box2c.git"
+package-root = "."
+
+[[packages.odin_modules]]
+name = "box2c"
+url = "https://github.com/cr1sth0fer/odin-box2d.git"
+package-root = "."
+
+[[destinations]]
+name = "odin_modules"
+path = "odin_modules"
