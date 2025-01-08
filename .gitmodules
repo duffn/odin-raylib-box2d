@@ -1,4 +1,0 @@
-[submodule "odin-box2d_28f7a87"]
-	url = https://github.com/cr1sth0fer/odin-box2d.git
-	path = .gitpkgs/odin-box2d_28f7a87
-	update = none

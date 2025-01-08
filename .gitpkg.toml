@@ -1,8 +1,0 @@
-[[packages.odin_modules]]
-name = "box2c"
-url = "https://github.com/cr1sth0fer/odin-box2d.git"
-package-root = "."
-
-[[destinations]]
-name = "odin_modules"
-path = "odin_modules"
